@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('../fonts/JetBrainsMono-Regular.woff2');
+}
+
+body {
+    font-family: 'JetBrains Mono' !important;
+}
+form {
+    width: 35rem;
+}
+
+form .form-label {
+    width: 12rem;
+}
